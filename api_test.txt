@@ -1,0 +1,310 @@
+ 0: Object
+time: 1679702400
+high: 27810.74
+low: 27188.56
+open: 27491.73
+volumefrom: 26897.42
+volumeto: 739835810.14
+close: 27493.43
+conversionType: "direct"
+conversionSymbol: ""
+ 1: Object
+time: 1679788800
+high: 28212.64
+low: 27447.43
+open: 27493.43
+volumefrom: 29291.76
+volumeto: 815186275.78
+close: 27996.81
+conversionType: "direct"
+conversionSymbol: ""
+ 2: Object
+time: 1679875200
+high: 28044.15
+low: 26565.75
+open: 27996.81
+volumefrom: 48705.37
+volumeto: 1332454545.99
+close: 27145.09
+conversionType: "direct"
+conversionSymbol: ""
+ 3: Object
+time: 1679961600
+high: 27501.44
+low: 26660.19
+open: 27145.09
+volumefrom: 38686.66
+volumeto: 1046551233.93
+close: 27274.9
+conversionType: "direct"
+conversionSymbol: ""
+ 4: Object
+time: 1680048000
+high: 28640.99
+low: 27261.75
+open: 27274.9
+volumefrom: 52216.18
+volumeto: 1471076398.38
+close: 28355.87
+conversionType: "direct"
+conversionSymbol: ""
+ 5: Object
+time: 1680134400
+high: 29172.9
+low: 27731.64
+open: 28355.87
+volumefrom: 63033.78
+volumeto: 1790022475.11
+close: 28037.46
+conversionType: "direct"
+conversionSymbol: ""
+ 6: Object
+time: 1680220800
+high: 28650.47
+low: 27541.23
+open: 28037.46
+volumefrom: 50916.39
+volumeto: 1436740283.79
+close: 28477.29
+conversionType: "direct"
+conversionSymbol: ""
+ 7: Object
+time: 1680307200
+high: 28810.95
+low: 28265.42
+open: 28477.29
+volumefrom: 19774.03
+volumeto: 563299405.51
+close: 28465.3
+conversionType: "direct"
+conversionSymbol: ""
+ 8: Object
+time: 1680393600
+high: 28538.36
+low: 27880.95
+open: 28465.3
+volumefrom: 21016.25
+volumeto: 592581072.46
+close: 28186.76
+conversionType: "direct"
+conversionSymbol: ""
+ 9: Object
+time: 1680480000
+high: 28494.64
+low: 27290.26
+open: 28186.76
+volumefrom: 52416.66
+volumeto: 1467725080.7
+close: 27810.08
+conversionType: "direct"
+conversionSymbol: ""
+ 10: Object
+time: 1680566400
+high: 28437.75
+low: 27674.33
+open: 27810.08
+volumefrom: 33855
+volumeto: 951913230.9
+close: 28178.13
+conversionType: "direct"
+conversionSymbol: ""
+ 11: Object
+time: 1680652800
+high: 28781.48
+low: 27841.22
+open: 28178.13
+volumefrom: 38734.09
+volumeto: 1097516840.54
+close: 28181.03
+conversionType: "direct"
+conversionSymbol: ""
+ 12: Object
+time: 1680739200
+high: 28190.92
+low: 27726.09
+open: 28181.03
+volumefrom: 25919.58
+volumeto: 725534880.46
+close: 28045.06
+conversionType: "direct"
+conversionSymbol: ""
+ 13: Object
+time: 1680825600
+high: 28110.71
+low: 27791
+open: 28045.06
+volumefrom: 14615.88
+volumeto: 408252366.14
+close: 27910.62
+conversionType: "direct"
+conversionSymbol: ""
+ 14: Object
+time: 1680912000
+high: 28160.84
+low: 27868.97
+open: 27910.62
+volumefrom: 9267.49
+volumeto: 259566192.03
+close: 27953.79
+conversionType: "direct"
+conversionSymbol: ""
+ 15: Object
+time: 1680998400
+high: 28540.31
+low: 27819.81
+open: 27953.79
+volumefrom: 16313.45
+volumeto: 458844547.68
+close: 28341.05
+conversionType: "direct"
+conversionSymbol: ""
+ 16: Object
+time: 1681084800
+high: 29774.9
+low: 28185.87
+open: 28341.05
+volumefrom: 41842.26
+volumeto: 1210962610.13
+close: 29654.81
+conversionType: "direct"
+conversionSymbol: ""
+ 17: Object
+time: 1681171200
+high: 30555.43
+low: 29610.52
+open: 29654.81
+volumefrom: 47128.59
+volumeto: 1419668857.33
+close: 30226.1
+conversionType: "direct"
+conversionSymbol: ""
+ 18: Object
+time: 1681257600
+high: 30501.9
+low: 29702.95
+open: 30226.1
+volumefrom: 36411.49
+volumeto: 1094504810.86
+close: 29905.2
+conversionType: "direct"
+conversionSymbol: ""
+ 19: Object
+time: 1681344000
+high: 30590.87
+low: 29881.39
+open: 29905.2
+volumefrom: 31914.06
+volumeto: 966678872.61
+close: 30404.37
+conversionType: "direct"
+conversionSymbol: ""
+ 20: Object
+time: 1681430400
+high: 31023.78
+low: 30017.62
+open: 30404.37
+volumefrom: 48197.47
+volumeto: 1474218121.6
+close: 30493.01
+conversionType: "direct"
+conversionSymbol: ""
+ 21: Object
+time: 1681516800
+high: 30611.18
+low: 30240.41
+open: 30493.01
+volumefrom: 13588.63
+volumeto: 412972618.72
+close: 30321.23
+conversionType: "direct"
+conversionSymbol: ""
+ 22: Object
+time: 1681603200
+high: 30562.23
+low: 30152.86
+open: 30321.23
+volumefrom: 17269.47
+volumeto: 523975352.08
+close: 30322.77
+conversionType: "direct"
+conversionSymbol: ""
+ 23: Object
+time: 1681689600
+high: 30329.15
+low: 29260.88
+open: 30322.77
+volumefrom: 34529.98
+volumeto: 1024623478.95
+close: 29446.77
+conversionType: "direct"
+conversionSymbol: ""
+ 24: Object
+time: 1681776000
+high: 30487.36
+low: 29141.12
+open: 29446.77
+volumefrom: 36452.25
+volumeto: 1094673605.86
+close: 30396.77
+conversionType: "direct"
+conversionSymbol: ""
+ 25: Object
+time: 1681862400
+high: 30418.14
+low: 28613.35
+open: 30396.77
+volumefrom: 51507.8
+volumeto: 1512328339.66
+close: 28828.2
+conversionType: "direct"
+conversionSymbol: ""
+ 26: Object
+time: 1681948800
+high: 29094.52
+low: 28009.24
+open: 28828.2
+volumefrom: 41215.89
+volumeto: 1178207476.97
+close: 28245.06
+conversionType: "direct"
+conversionSymbol: ""
+ 27: Object
+time: 1682035200
+high: 28360.43
+low: 27159.82
+open: 28245.06
+volumefrom: 42728.94
+volumeto: 1190190929.04
+close: 27260.85
+conversionType: "direct"
+conversionSymbol: ""
+ 28: Object
+time: 1682121600
+high: 27882.99
+low: 27149.05
+open: 27260.85
+volumefrom: 17423.86
+volumeto: 479077712.82
+close: 27818.87
+conversionType: "direct"
+conversionSymbol: ""
+ 29: Object
+time: 1682208000
+high: 27822.64
+low: 27356.31
+open: 27818.87
+volumefrom: 18268.64
+volumeto: 503598462.61
+close: 27596.71
+conversionType: "direct"
+conversionSymbol: ""
+ 30: Object
+time: 1682294400
+high: 27989.5
+low: 27175.9
+open: 27596.71
+volumefrom: 17107.66
+volumeto: 471191045.66
+close: 27407.01
+conversionType: "direct"
+conversionSymbol: ""
